@@ -131,3 +131,9 @@ Forwarding  https://xxxxx.ngrok-free.app  ->  http://localhost:3000
 
 > This is your **public temporary link**. You can access your AI chat from anywhere!
 
+---
+
+### 👨‍💻 Author
+
+Created by [Reuchmind](https://github.com/Reuchmind)  
+Feel free to use or improve it. Drop a ⭐ if it helped you!
